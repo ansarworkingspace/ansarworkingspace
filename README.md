@@ -1,26 +1,54 @@
 
 ### 👋 Hi there, I'm Muhammed Ansar — Full Stack Developer
 
-I'm a Full Stack Developer with 2 years of hands-on professional experience, currently working at a B2B and B2C product-based startup in Bengaluru. I was part of the core team that built the MVP from scratch and helped scale it into an enterprise-level system.
-
-🛠️ **Tech Skills**
-
-Primarily skilled in the **MERN stack**, with additional hands-on involvement in **Flutter** and **Angular** through specific project requirements at my current company.
-
-🚀 **What I Do**
-
-* Build scalable and meaningful tech solutions
-* Take ownership across the stack — frontend, backend, and DevOps
-* Continuously learn and contribute to personal and community-driven projects
-* Explore new tools and frameworks in my spare time to stay sharp
-
-💡 **What Drives Me**
-I'm a fast learner, passionate about clean code, performance, and building things that make a difference. Whether it’s shipping features, debugging issues, or experimenting with side projects, I’m always looking for ways to improve and grow.
+I'm a passionate Full Stack Developer with 2 years of professional experience, currently contributing to a fast-growing SaaS startup in Bengaluru. I specialize in building scalable, real-world applications that solve critical business and user problems.
 
 ---
 
-### 🌐 Connect with Me
+### 🚀 What I'm Working On
 
-* 🔗 [Personal Website](https://muhammedansaren.vercel.app/)
+At my current company, I'm playing a key role in building and scaling a SaaS-based mobility platform designed to help taxi and auto-rickshaw drivers across India digitize their services and manage daily operations efficiently.
+
+Some of my key contributions include:
+
+* **Built and scaled full-featured B2B and B2C platforms** from the ground up, including a lead-generation system for OIOT Solutions (a Towner subsidiary).
+* **Engineered a complete ride-handling system** with real-time location tracking, odometer and speedometer integration, meter taxi fare logic, and a robust trip booking module with real-time driver–rider updates and communication.
+* **Designed and developed dynamic admin dashboards** for both internal and business users to manage users, vehicles, trips, subscriptions, analytics, and real-time alerts.
+* **Built high-impact modules** like Trip Share, Open Data Portals, Landing Pages, Admin Panels, an API Documentation Hub, and an SOS emergency system.
+* **Architected and maintained scalable backend infrastructure** capable of handling millions of concurrent rides with high uptime and performance.
+
+---
+
+### 🛠️ Tech Stack Highlights
+
+**Frontend**
+React.js, Next.js, Angular, JavaScript, TypeScript, Tailwind CSS, ShadCN, Framer Motion, Redux, Flutter (basic), Figma
+
+**Backend**
+Node.js, Express.js, NestJS, REST APIs, GraphQL, WebSockets, Socket.io, Microservices, RBAC, Real-time Systems
+
+**Databases**
+MongoDB, PostgreSQL, Redis, Firebase (Realtime DB & Firestore), Prisma, Mongoose, TypeORM
+
+**DevOps & Tools**
+Docker, AWS (EC2, S3), Azure, Vercel, PM2, CI/CD Pipelines, GitHub Actions
+
+**Testing & Debugging**
+Jest, React Testing Library, Postman, Swagger, Chrome DevTools
+
+**Team & Workflow**
+Git, GitHub, GitLab, Notion, Jira, Git Flow, Agile/Scrum, Clean Code Principles
+
+---
+
+### 💡 Outside of Work
+
+I'm always experimenting with tools, frameworks, and system architectures through side projects and open community contributions. Whether it's building microservices or refining user interfaces, I believe in learning by doing.
+
+---
+
+### 🌐 Let's Connect
+
+* 🔗 [Portfolio](https://muhammedansaren.vercel.app/)
 * 💼 [LinkedIn](https://www.linkedin.com/in/ansarenofficial/)
-* 📧 Email: [muhammedansaren@gmail.com](mailto:muhammedansaren@gmail.com)
+* 📧 [Email](mailto:muhammedansaren@gmail.com)
