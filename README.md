@@ -22,21 +22,27 @@ Some of my key contributions include:
 ### 🛠️ Tech Stack Highlights
 
 **Frontend**
+
 React.js, Next.js, Angular, JavaScript, TypeScript, Tailwind CSS, ShadCN, Framer Motion, Redux, Flutter (basic), Figma
 
 **Backend**
+
 Node.js, Express.js, NestJS, REST APIs, GraphQL, WebSockets, Socket.io, Microservices, RBAC, Real-time Systems
 
 **Databases**
+
 MongoDB, PostgreSQL, Redis, Firebase (Realtime DB & Firestore), Prisma, Mongoose, TypeORM
 
 **DevOps & Tools**
+
 Docker, AWS (EC2, S3), Azure, Vercel, PM2, CI/CD Pipelines, GitHub Actions
 
 **Testing & Debugging**
+
 Jest, React Testing Library, Postman, Swagger, Chrome DevTools
 
 **Team & Workflow**
+
 Git, GitHub, GitLab, Notion, Jira, Git Flow, Agile/Scrum, Clean Code Principles
 
 ---
