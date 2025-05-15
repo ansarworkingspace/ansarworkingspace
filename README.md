@@ -11,7 +11,7 @@ At my current company, I'm playing a key role in building and scaling a SaaS-bas
 
 Some of my key contributions include:
 
-* **Built and scaled full-featured B2B and B2C platforms** from the ground up, including a lead-generation system for OIOT Solutions (a Towner subsidiary).
+* **Built and scaled full-featured B2B and B2C platforms** from the ground up, including systems for lead generation, booking management, and real-time user interaction.
 * **Engineered a complete ride-handling system** with real-time location tracking, odometer and speedometer integration, meter taxi fare logic, and a robust trip booking module with real-time driver–rider updates and communication.
 * **Designed and developed dynamic admin dashboards** for both internal and business users to manage users, vehicles, trips, subscriptions, analytics, and real-time alerts.
 * **Built high-impact modules** like Trip Share, Open Data Portals, Landing Pages, Admin Panels, an API Documentation Hub, and an SOS emergency system.
