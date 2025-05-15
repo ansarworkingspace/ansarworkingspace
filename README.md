@@ -1,15 +1,25 @@
-👋 I am a self-taught Full Stack Developer with a strong focus on the MERN stack, which includes MongoDB, Express, React, and Node.js. I have successfully completed two projects using the MERN stack, in addition to working with various other technologies. My ability to meet deadlines and deliver high-quality results stems from my dedicated practice and continuous learning.I am passionate about staying up-to-date with the latest technologies and constantly strive to expand my skill set.  🌱 
 
+### 👋 Hi there, I'm Muhammed Ansar — Full Stack Developer
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)                                                                                                                                                                                                                                                                                           
+I'm a Full Stack Developer with 2 years of hands-on professional experience, currently working at a B2B and B2C product-based startup in Bengaluru. I was part of the core team that built the MVP from the ground up and helped scale it into an enterprise-level system.
 
-🌐 and a touch of mystical wizardry, @ansarworkingspace 
-   is a force to be reckoned with in the coding cosmos.
+🛠️ **Tech Skills**
+Primarily skilled in the **MERN stack**, with additional experience in **Flutter** and **Angular** through various company projects. My strong foundation in full stack development comes from completing an intensive 8-month bootcamp at **Brototype**.
 
-🚀 Currently, this trailblazer is on an intergalactic mission of learning, constantly expanding their knowledge and exploring new frontiers of code.
-   From web development to gaming realms and beyond, they're always up for captivating collaborations that push the boundaries of what's possible.
+🚀 **What I Do**
 
-💌 Get ready to be captivated by the amazing @ansarworkingspace! Join them on a journey of coding marvels, endless laughter, and boundless possibilities. 
-   Let's make the digital realm a joyous and inspiring place together!
+* Build scalable and meaningful tech solutions
+* Take ownership across the stack — frontend, backend, and devops
+* Continuously learn and contribute to both personal and community-driven projects
+* Explore new tools and frameworks in my spare time to stay sharp
 
-                                                                      MUHAMMED ANSAR - SOFTWARE DEVELOPER 
+💡 **What Drives Me**
+I'm a fast learner, passionate about clean code, performance, and building things that make a difference. Whether it’s shipping features, debugging issues, or experimenting with side projects, I’m always looking for ways to improve and grow.
+
+---
+
+### 🌐 Connect with Me
+
+* 🔗 [Personal Website](https://muhammedansaren.vercel.app/)
+* 💼 [LinkedIn](https://www.linkedin.com/in/ansarenofficial/)
+* 📧 Email: [muhammedansaren@gmail.com](mailto:muhammedansaren@gmail.com)
