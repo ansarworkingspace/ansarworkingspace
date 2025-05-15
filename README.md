@@ -4,6 +4,7 @@
 I'm a Full Stack Developer with 2 years of hands-on professional experience, currently working at a B2B and B2C product-based startup in Bengaluru. I was part of the core team that built the MVP from scratch and helped scale it into an enterprise-level system.
 
 🛠️ **Tech Skills**
+
 Primarily skilled in the **MERN stack**, with additional hands-on involvement in **Flutter** and **Angular** through specific project requirements at my current company.
 
 🚀 **What I Do**
