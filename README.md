@@ -1,13 +1,14 @@
 
 ### 👋 Hi there, I'm Muhammed Ansar — Full Stack Developer
 
-I'm a passionate Full Stack Developer with 2 years of professional experience, currently contributing to a fast-growing SaaS startup in Bengaluru. I specialize in building scalable, real-world applications that solve critical business and user problems.
+Full Stack Developer with 2+ years of professional experience in early-stage product-based startups and 3+ years of overall programming experience, specialising in building and scaling SaaS products from scratch. Played a key role in developing a mobility platform used by 50,000+ drivers and 10,000+ riders, with core features actively running in production. Led the development of critical system components including fare calculation engines, meter taxi logic, and scalable backend APIs powering real-time operations. Experienced in building end-to-end systems across frontend, backend, database design, and deployment, contributing to 20+ projects across web and mobile applications, including Flutter-based solutions. Strong in problem-solving, system design, and execution, with the ability to take ideas from concept to production efficiently. Proven track record of delivering multiple MVPs within short timelines, building reliable and scalable solutions in fast-paced environments.
 
 ---
 
 ### 🚀 What I'm Working On
 
-At my current company, I'm playing a key role in building and scaling a SaaS-based mobility platform designed to help taxi and auto-rickshaw drivers across India digitize their services and manage daily operations efficiently.
+Providing end-to-end technical consulting and development support to founders and businesses, including system design, architecture planning, and product strategy. Delivered multiple MVPs within tight timelines, including 4 full-stack applications in the last 2 months, covering frontend, backend, and database design.
+Worked closely with clients to define product logic, optimize user flows, and implement scalable solutions aligned with business goals. Contributed to shaping product revenue models and technical direction, gaining exposure to diverse problem domains and strengthening adaptability across different solution spaces.
 
 Some of my key contributions include:
 
